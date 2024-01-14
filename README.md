@@ -1,2 +1,2 @@
 # Python
-Python Scripts
+This repository includes python scripting examples. 
